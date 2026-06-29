@@ -330,7 +330,7 @@ a:hover { color: var(--primary); }
 
 .about-img img {
   width: 100%;
-  height: 350px;
+  height: 370px;
   object-fit: cover;
 }
 
